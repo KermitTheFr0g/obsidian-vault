@@ -6,6 +6,7 @@
       {
         "id": "4d3e88bfa75f8647",
         "type": "tabs",
+        "dimension": 49.7194950911641,
         "children": [
           {
             "id": "37e9131c544204a0",
@@ -26,6 +27,7 @@
       {
         "id": "1666754b876c3df2",
         "type": "tabs",
+        "dimension": 50.28050490883591,
         "children": [
           {
             "id": "8fe9027ef0acd793",
@@ -202,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fe9027ef0acd793",
+  "active": "37e9131c544204a0",
   "lastOpenFiles": [
     "8. Templates/Script Template.md",
     "8. Templates/Topic Template.md",
