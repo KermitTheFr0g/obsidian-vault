@@ -11,10 +11,14 @@
             "id": "37e9131c544204a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "8. Templates/Journal Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Journal Template"
             }
           }
         ]
@@ -198,8 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fe9027ef0acd793",
+  "active": "37e9131c544204a0",
   "lastOpenFiles": [
+    "8. Templates/Concept Template.md",
+    "8. Templates/Journal Template.md",
+    "2. Daily Notes/Archive",
+    "2. Daily Notes",
     "Welcome.md"
   ]
 }
