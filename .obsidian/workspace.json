@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Templates/Script Template.md",
+                "file": "7. Main Notes/Admin Homelab setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Script Template"
+              "title": "Admin Homelab setup"
             }
           }
         ]
@@ -202,14 +202,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37e9131c544204a0",
+  "active": "c9b5cb932a138507",
   "lastOpenFiles": [
+    "8. Templates/Script Template.md",
     "8. Templates/Topic Template.md",
     "8. Templates/Concept Template.md",
     "8. Templates/Journal Template.md",
     "8. Templates/Note Template.md",
     "8. Templates/Project Template.md",
-    "8. Templates/Script Template.md",
     "2. Daily Journal/Archive",
     "2. Daily Journal",
     "Welcome.md"
