@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Templates/Journal Template.md",
+                "file": "8. Templates/Script Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal Template"
+              "title": "Script Template"
             }
           }
         ]
@@ -204,10 +204,14 @@
   },
   "active": "37e9131c544204a0",
   "lastOpenFiles": [
+    "8. Templates/Topic Template.md",
     "8. Templates/Concept Template.md",
     "8. Templates/Journal Template.md",
-    "2. Daily Notes/Archive",
-    "2. Daily Notes",
+    "8. Templates/Note Template.md",
+    "8. Templates/Project Template.md",
+    "8. Templates/Script Template.md",
+    "2. Daily Journal/Archive",
+    "2. Daily Journal",
     "Welcome.md"
   ]
 }
