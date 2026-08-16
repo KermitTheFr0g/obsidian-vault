@@ -37,7 +37,8 @@ Then create a new DNS for every service that you want to expose
 ha -> homeassistant
 glance -> glance
 ```
-
+cloudflared tunnel route dns  ha.yourdomain.com
+cloudflared tunnel route dns <TUNNEL_NAME_OR_UUID> glance.yourdomain.com
 ```
 
 Create the tunnel config yml
