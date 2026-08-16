@@ -1,0 +1,1 @@
+This is a note about the direction of AI and how it is affecting my mental health, progression and just where I want to be.
